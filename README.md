@@ -1,4 +1,4 @@
-# Hi there, I'm Danguur! 👋
+# Hi there, I'm Zahoor Ahmad Dar! 👋
 
 ### 🚀 Cybersecurity Researcher & Web Developer
 I focus on building secure web applications and analyzing digital vulnerabilities. Currently digging deep into browser extension security and system-level intrusion detection.
@@ -34,6 +34,5 @@ I focus on building secure web applications and analyzing digital vulnerabilitie
 
 ---
 
-### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your-Name-Here](https://linkedin.com/in/your-username)
-* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+
