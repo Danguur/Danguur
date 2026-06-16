@@ -6,7 +6,6 @@
 Transforming complex web architectures into secure, resilient digital ecosystems. 
 Specializing in browser security, PHP backend engineering, and intrusion detection systems.
 
-[💼 LinkedIn](https://linkedin.com/in/your-username) • [🌐 Portfolio](https://yourportfolio.com) • [📧 Email Me](mailto:your.email@example.com)
 
 ---
 
