@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Zahoor Ahmad Dar
-### Cybersecurity Researcher & Web Developer
+### Research Scholar 
 
 Transforming complex web architectures into secure, resilient digital ecosystems. 
 Specializing in browser security, PHP backend engineering, and intrusion detection systems.
